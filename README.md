@@ -12,3 +12,4 @@ contains the free software for Windows 10 with all necessary folders, English/Ge
 contains the complete source code for Tango 2.2. It compiles under Embarcadero C++ Builder 11.3, (Update 3) / Windows 10 (zip, 190 MB).
 
 
+[PDF hier ansehen](./Quick Intro.pdf)
