@@ -25,21 +25,21 @@ For all pieces I am posting a screenshot. The actual Tango²- files (*.room) the
 
 ["Getting To Know" (6:46)](https://youtu.be/dq2ZcSnnrN0) 
 
-"2 Duos" (5:50) 
+["2 Duos" (5:50) ](https://youtu.be/KQgo3Fbmsf8)
 
 The Tutorial ROOM :
 
-"Setup of the Tutorial ROOM" (23:09) 
+["Setup of the Tutorial ROOM" (23:09) ](https://youtu.be/LoRn-u8dH4U)
 
-"Playing the Tutorial ROOM" (4:30) 
+["Playing the Tutorial ROOM" (4:30) ](https://youtu.be/gw1kLJ-g3rs)
 
-"Ceremonial" (4:31): I improvise with 2 or more trombones and some piano in between. Towards the end T² uses its own piano accompaniment for short trombone-segments without me.
+["Ceremonial" (4:31): I improvise with 2 or more trombones and some piano in between. Towards the end T² uses its own piano accompaniment for short trombone-segments without me.](https://youtu.be/6MmKlFxxKpY)
 
-"Prelude" (3:33): A quiet piece that makes extensive use of “Harmony”. The melody moves between the 3 voices. I am particularly proud of this one.
+[Prelude" (3:33): A quiet piece that makes extensive use of “Harmony”. The melody moves between the 3 voices. I am particularly proud of this one.](https://youtu.be/Kiho4-usOxo)
 
-"Literally" (4:44): Tango² plays mostly with the samples of my last notes.
+["Literally" (4:44): Tango² plays mostly with the samples of my last notes.](https://youtu.be/k6tgb5rn2z8)
 
-"Sarabande" (5:54): A jazz piece in slow 3/2, based on my favorite ballad. T² knows the chord changes and the melody. The harmony gets a little more abstract towards the end and Tango finishes the piece because it hears that I play the melody again.
+["Sarabande" (5:54): A jazz piece in slow 3/2, based on my favorite ballad. T² knows the chord changes and the melody. The harmony gets a little more abstract towards the end and Tango finishes the piece because it hears that I play the melody again.](https://youtu.be/vXeHWYyFxDM)
 
 All compositions by Henning Berg
 
