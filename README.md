@@ -19,9 +19,9 @@ Here are a few short video clips of me improvising with Tango² in my studio. I 
 
 Obviously I did this because I like the music, but also because a video seems to be a good way to show how this kind of music-making can work.
 
-The first three and the last piece start more or less with the same phrase from the trombone, the others with a simple C. From then on everything is improvised.
+The some pieces start more or less with the same phrase from the trombone, others with a simple C. From then on everything is improvised.
 
-For all pieces I am posting a screenshot. The actual Tango²- files (*.room) they were produced with can be found in Tango².2_2.zip .
+The actual Tango²- files (*.room) they were produced with can be found in Tango².2_2.zip .
 
 ["Getting To Know" (6:46)](https://youtu.be/dq2ZcSnnrN0) 
 
