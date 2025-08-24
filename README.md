@@ -31,9 +31,9 @@ For all pieces I am posting a screenshot. The actual Tango²- files (*.room) the
 
 [Prelude" (3:33):](https://youtu.be/Kiho4-usOxo)A quiet piece that makes extensive use of “Harmony”. The melody moves between the 3 voices. I am particularly proud of this one.
  
-["Literally" (4:44):](https://youtu.be/vXeHWYyFxDM) Tango² plays mostly with the samples of my last notes.](https://youtu.be/k6tgb5rn2z8)
+["Literally" (4:44):](https://youtu.be/k6tgb5rn2z8) Tango² plays mostly with the samples of my last notes.
 
-["Sarabande" (5:54):](https://youtu.be/k6tgb5rn2z8) A jazz piece in slow 3/2, based on my favorite ballad. T² knows the chord changes and the melody. The harmony gets a little more abstract towards the end and Tango finishes the piece because it hears that I play the melody again.
+["Sarabande" (5:54):](https://youtu.be/vXeHWYyFxDM) A jazz piece in slow 3/2, based on my favorite ballad. T² knows the chord changes and the melody. The harmony gets a little more abstract towards the end and Tango finishes the piece because it hears that I play the melody again.
 
 The Tutorial ROOM :
 
