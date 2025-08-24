@@ -11,7 +11,7 @@ contains the free software for Windows 10 with all necessary folders, English/Ge
 2.  Tango.2-2.Source.zip 
 contains the complete source code for Tango 2.2. It compiles under Embarcadero C++ Builder 11.3, (Update 3) / Windows 10 (zip, 190 MB).
 
-[Hier geht's zu meinem YouTube-Video](https://youtu.be/dq2ZcSnnrN0)
+[]()
 
 # Videos:
 
@@ -23,7 +23,7 @@ The first three and the last piece start more or less with the same phrase from 
 
 For all pieces I am posting a screenshot. The actual Tango²- files (*.room) they were produced with can be found in Tango².2_2.zip .
 
-"Getting To Know" (6:46) 
+["Getting To Know" (6:46)](https://youtu.be/dq2ZcSnnrN0) 
 
 "2 Duos" (5:50) 
 
