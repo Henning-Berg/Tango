@@ -13,9 +13,9 @@ contains the complete source code for Tango 2.2. It compiles under Embarcadero C
 
 Links for a quick overview:
 
-[Short Info Paper, two pages, English (pdf)](./Quick Intro.pdf)
+Short Info Paper, two pages, English (pdf)](./Quick Intro.pdf)
 
-[English Manual, approx. 115 pages (pdf)](./Tango2-2 ManualEnglish 9-23.pdf)
+[English Manual, approx. 115 pages (pdf)(./Tango2-2 ManualEnglish 9-23.pdf)
 
 
 German Manual, approx. 120 pages (pdf)
