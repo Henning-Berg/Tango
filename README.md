@@ -13,7 +13,7 @@ contains the complete source code for Tango 2.2. It compiles under Embarcadero C
 
 []()
 
-# Videos:
+## Videos:
 
 Here are a few short video clips of me improvising with Tango² in my studio. I added a screen recording to demonstrate the setup of a simple "Tutorial ROOM" which I also played in "Playing the Tutorial ROOM".
 
