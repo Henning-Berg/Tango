@@ -1,4 +1,4 @@
-# This repository describes the interactive music software Tango².
+### This repository describes the interactive music software Tango².
 
 Tango² (Version 2.2, built on November 3, 2023) listens to an improvising musician, analyses what it hears and plays musical responses which relate directly to the musical input.
 
