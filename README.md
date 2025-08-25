@@ -28,7 +28,7 @@ The actual Tango²- files (*.room) they were produced with can be found in Tango
 
 ["Ceremonial" (4:31):](https://youtu.be/6MmKlFxxKpY) I improvise with 2 or more trombones and some piano in between. Towards the end T² uses its own piano accompaniment for short trombone-segments without me.
 
-[Prelude" (3:33):](https://youtu.be/Kiho4-usOxo)A quiet piece that makes extensive use of “Harmony”. The melody moves between the 3 voices. I am particularly proud of this one.
+[Prelude" (3:33):](https://youtu.be/Kiho4-usOxo) A quiet piece that makes extensive use of “Harmony”. The melody moves between the 3 voices. I am particularly proud of this one.
  
 ["Literally" (4:44):](https://youtu.be/k6tgb5rn2z8) Tango² plays mostly with the samples of my last notes.
 
