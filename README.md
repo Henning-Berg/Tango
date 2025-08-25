@@ -1,8 +1,8 @@
 ### This repository describes the interactive music software Tango².
 
-Tango² (Version 2.2, built on November 3, 2023) listens to an improvising musician, analyses what it hears and plays musical responses which relate directly to the musical input.
+Ein Projekt von Henning Berg (Github: Henning-Berg)
 
-If the improviser in turn reacts to these answers, a musical loop between the human and the machine can emerge. The way input and reaction correlate and the predictability of Tango’s responses can be defined by the user via a setup of improvising environments, called Rooms.
+Tango² (Version 2.2, built on November 3, 2023) listens to an improvising musician, analyses what it hears and plays musical responses which relate directly to the musical input. If the improviser in turn reacts to these answers, a musical loop between the human and the machine can emerge. The way input and reaction correlate and the predictability of Tango’s responses can be defined by the user via a setup of improvising environments, called Rooms.
 
 Under "Releases" two relevant files can be found:
 1. Tango².2_2.zip
